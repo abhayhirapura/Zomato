@@ -10,7 +10,7 @@
         "offers": 20,
         "alcohol": true,
         "restaurant_open_time": 16,
-        "restaurant_close_time": 4
+        "restaurant_close_time": 5
     },
     {
         "image": "nine",
